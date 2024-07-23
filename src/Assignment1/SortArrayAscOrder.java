@@ -1,4 +1,4 @@
-package Assignments;
+package Assignment1;
 
 import java.nio.file.spi.FileSystemProvider;
 import java.util.Arrays;
